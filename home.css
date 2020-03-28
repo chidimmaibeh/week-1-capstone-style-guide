@@ -17,7 +17,7 @@ h3 {
 }
 
 button {
-  background-color:#B8181E;
+  background-color:#D93B48;
   border-radius: 10px;
   padding: 12px;
   color: white;
@@ -41,7 +41,7 @@ div.box {
 }
 
 #primary1 {
-  background-color: #B8181E;
+  background-color: #D93B48;
 }
 
 #primary2 {
@@ -50,7 +50,7 @@ div.box {
 }
 
 #primary3 {
-  background-color:  #F8E9E5;
+  background-color:  #F2D091;
 }
 
 #primary4 {
@@ -58,7 +58,11 @@ div.box {
 }
 
 #primary5 {
-  background-color: #80B340;
+  background-color: #588C49;
+}
+
+#primary6 {
+  background-color: #A67232;
 }
 
 .warning {
